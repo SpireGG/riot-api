@@ -18,5 +18,12 @@
 	},
 	"require-dev": {},
 	"autoload": {},
-	"minimum-stability": "stable"
+	"minimum-stability": "stable",
+	"repositories": [{
+		"type": "vcs",
+		"url": "https://github.com/SpireGG/riot-api-league"
+	},{
+		"type": "vcs",
+		"url": "https://github.com/SpireGG/riot-api-datadragon"
+	}]
 }
