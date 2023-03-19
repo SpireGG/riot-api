@@ -13,8 +13,8 @@
 		}
 	],
 	"require": {
-		"SpireGG/riot-api-league": "^1",
-		"SpireGG/riot-api-datadragon": "^1"
+		"spiregg/riot-api-league": "^1.0",
+		"spiregg/riot-api-datadragon": "^1.0"
 	},
 	"require-dev": {},
 	"autoload": {},
