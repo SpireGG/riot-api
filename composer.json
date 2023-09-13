@@ -1,5 +1,5 @@
 {
-	"name": "dolejska-daniel/riot-api",
+	"name": "spiregg/riot-api",
 	"type": "library",
 	"description": "RiotAPI PHP Wrapper Metapackage",
 	"keywords": ["riot", "league of legends", "data dragon", "api", "wrapper", "php7", "php8", "metapackage"],
@@ -13,12 +13,12 @@
 		}
 	],
 	"require": {
-		"dolejska-daniel/riot-api-league": "^2",
-		"dolejska-daniel/riot-api-datadragon": "^2"
+		"spiregg/riot-api-league": "dev-master",
+		"spiregg/riot-api-datadragon": "dev-master"
 	},
 	"require-dev": {},
 	"autoload": {},
-	"minimum-stability": "stable",
+	"minimum-stability": "dev",
 	"repositories": [{
 		"type": "vcs",
 		"url": "https://github.com/SpireGG/riot-api-league"
