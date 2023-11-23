@@ -5,7 +5,7 @@
 	"keywords": ["riot", "league of legends", "data dragon", "api", "wrapper", "php7", "php8", "metapackage"],
 	"homepage": "https://github.com/SpireGG/riot-api",
 	"license": "GPL-3.0-or-later",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"authors": [
 		{
 			"name": "Chypriote",
@@ -19,7 +19,7 @@
 		}
 	],
 	"require": {
-		"spiregg/riot-api-league": "^v2.1",
+		"spiregg/riot-api-league": "^v2.2",
 		"spiregg/riot-api-datadragon": "^2.0"
 	},
 	"require-dev": {},
